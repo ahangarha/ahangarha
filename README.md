@@ -5,6 +5,10 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ahangarha&show_icons=true)
 
+![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ahangarha)
+
+![GitHub metrics](https://metrics.lecoq.io/ahangarha)
+
 ### What I'm doing now
 
 - 🔭 Student and mentor at Microverse
