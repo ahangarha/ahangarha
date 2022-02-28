@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mostafa Ahangarha
 
-## A Freelance Full-Stack Web Developer
+## A Freelance Full-stack Web Developer
 ### I am a Software Freedom Advocate
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ahangarha&show_icons=true)
