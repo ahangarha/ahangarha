@@ -16,7 +16,7 @@
 - ↔️ Improving bidirectional text support in FLOSS projects
 
 ### Key contributions:
-I have been actively contributing to mupltiple FLOSS projects to improve their support for bidirectional text (bidi). The contribution has been from reporting the issue to provide consultation and in some cases, coding. Among these projects I can mention: Masotodon, Gitlab, FluxBB, Invidious, AndOTP, AntennaPod, OmniNote, Bibliogram, etc.
+I have been actively contributing to multiple FLOSS projects to improve their support for bidirectional text (bidi). The contribution has been from reporting the issue to providing consultation and in some cases, coding. Among these projects, I can mention Mastodon, Gitlab, FluxBB, Invidious, AndOTP, AntennaPod, OmniNote, Bibliogram, etc.
 
 #### Persona projects related to bidi support:
 - [add-bidi-support](https://github.com/ahangarha/add-bidi-support): a Firefox addon to demonstrate bidi support on web pages.
