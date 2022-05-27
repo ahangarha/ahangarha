@@ -15,6 +15,11 @@
 - 🌱 Enhancing my full-stack developer skills everyday
 - ↔️ Improving bidirectional text support in FLOSS projects
 
+### Tech stack
+- React
+- Tall Stack (Tailwindcss, Alpine.js, Laravel, Livewire)
+- Ruby - Ruby on Rails
+
 ### Key contributions:
 I have been actively contributing to multiple FLOSS projects to improve their support for bidirectional text (bidi). The contribution has been from reporting the issue to providing consultation and in some cases, coding. Among these projects, I can mention Mastodon, Gitlab, FluxBB, Invidious, AndOTP, AntennaPod, OmniNote, Bibliogram, etc.
 
