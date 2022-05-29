@@ -34,6 +34,12 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-444?logo=ubuntu&logoColor=eee&labelColor=orange)
 ![git](https://img.shields.io/badge/-git-444?logo=git&logoColor=eee&labelColor=red)
 
+![TDD](https://img.shields.io/badge/TDD-eee?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-eee?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean_Code-eee?style=flat-square)
+![GitFlow](https://img.shields.io/badge/GitFlow-eee?style=flat-square)
+![Remote Teamwork](https://img.shields.io/badge/Remote_Teamwork-eee?style=flat-square)
+
 ### Key contributions:
 
 I have been actively contributing to multiple FLOSS projects to improve their support for bidirectional text (bidi). The contribution has been from reporting the issue to providing consultation and in some cases, coding. Among these projects, I can mention Mastodon, Gitlab, FluxBB, Invidious, AndOTP, AntennaPod, OmniNote, Bibliogram, etc.
