@@ -51,8 +51,12 @@ I have been actively contributing to multiple FLOSS projects to improve their su
 
 ### 📫 How to reach me
 
-- GitHub: [@ahangarha](https://github.com/ahangarha)
-- Framagit [@ahangarha](https://framagit.org/ahangarha/)
-- Mastodon [@ahangarha@mas.to](https://mas.to/@ahangarha)
-- Twitter: [@ahangarha](https://twitter.com/@ahangarha)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahangarha/)
+[![Github](https://img.shields.io/badge/Github-ahangarha-555?style=flat-square&logo=github&logoColor=eee&labelColor=222)](https://github.com/ahangarha)
+[![Framagit](https://img.shields.io/badge/Framagit-ahangarha-555?style=flat-square&logo=gitlab&logoColor=eee&labelColor=222)](https://framagit.org/ahangarha/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-ahangarha-555?style=flat-square&logo=gitlab&logoColor=eee&labelColor=222)](https://gitlab.com/ahangarha/)
+
+[![Mastodon](https://img.shields.io/badge/Dev-@ahangarha@hackers.town-555?style=flat-square&logo=mastodon&logoColor=eee&labelColor=blue)](https://hackers.town/@ahangarha)
+[![Mastodon](https://img.shields.io/badge/Personal-@ahangarha@mas.to-555?style=flat-square&logo=mastodon&logoColor=eee&labelColor=blue)](https://mas.to/@ahangarha)
+[![Twitter](https://img.shields.io/badge/Dev-@ahangarha__dev-555?style=flat-square&logo=Twitter&logoColor=eee&labelColor=blue)](https://twitter.com/ahangarha_dev)
+[![Twitter](https://img.shields.io/badge/Personal-@ahangarha-555?style=flat-square&logo=Twitter&logoColor=eee&labelColor=blue)](https://twitter.com/ahangarha)
+[![Linkedin](https://img.shields.io/badge/Personal-@ahangarha-555?style=flat-square&logo=Linkedin&logoColor=eee&labelColor=blue)](https://www.linkedin.com/in/ahangarha/)
