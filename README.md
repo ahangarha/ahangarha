@@ -1,17 +1,11 @@
-# Hi there 👋 I'm Mostafa Ahangarha
+# I am Mostafa Ahangarha
 
-## A Freelance Full-stack Web Developer
-
-### I am a Software Freedom Advocate
-
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ahangarha)
-
-![GitHub metrics](https://metrics.lecoq.io/ahangarha)
+#### Full-stack Web Developer | Software Engineer at [Shakacode](https://shakacode.com) | Software Freedom Advocate
 
 ### What I'm doing now
-
-- 🔭 Student and mentor at Microverse
-- 🌱 Enhancing my full-stack developer skills everyday
+- 🔗 Make the combination of Rails and React easier and smnoother
+- 📖 Reading Clean Code
+- 🌱 Improve my Data Structure and Algorithm
 - ↔️ Improving bidirectional text support in FLOSS projects
 
 ### Tech stack
