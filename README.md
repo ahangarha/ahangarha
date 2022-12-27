@@ -3,7 +3,7 @@
 #### Full-stack Web Developer | Software Engineer at [Shakacode](https://shakacode.com) | Software Freedom Advocate
 
 ### What I'm doing now
-- 🔗 Make the combination of Rails and React easier and smnoother
+- 🔗 Make the combination of Rails and React easier and smoother
 - 📖 Reading Clean Code
 - 🌱 Improve my Data Structure and Algorithm
 - ↔️ Improving bidirectional text support in FLOSS projects
