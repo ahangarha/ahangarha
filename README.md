@@ -14,12 +14,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow&labelColor=222)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-444?logo=typescript&logoColor=blue&labelColor=222)
 ![PHP](https://img.shields.io/badge/-PHP-444?logo=php&logoColor=eee&labelColor=blue)
-![Laravel](https://img.shields.io/badge/-Laravel-444?logo=laravel&logoColor=eee&labelColor=red)
 ![Python](https://img.shields.io/badge/-Python-444?logo=Python&logoColor=eee&labelColor=blue)
 
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-444?logo=rubyonrails&logoColor=eee&labelColor=red)
 ![React](https://img.shields.io/badge/-React-444?logo=react&logoColor=eee&labelColor=blue)
 ![Redux](https://img.shields.io/badge/-Redux-444?logo=Redux&logoColor=eee&labelColor=purple)
+![Laravel](https://img.shields.io/badge/-Laravel-444?logo=laravel&logoColor=eee&labelColor=red)
 ![AlpineJS](https://img.shields.io/badge/-Alpine.js-444?logo=alpine.js&logoColor=eee&labelColor=blue)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-444?logo=tailwindcss&logoColor=eee&labelColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444?logo=Bootstrap&logoColor=eee&labelColor=blue)
