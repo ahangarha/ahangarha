@@ -4,7 +4,7 @@
 
 ### What I'm doing now
 - 🔗 Make the combination of Rails and React easier and smoother
-- 📖 Getting deeper in Ruby language
+- 📖 Reading "Refactoring" and "Clean Ruby" books
 - 🌱 Improve my Data Structure and Algorithm skills
 - ↔️ Improving bidirectional text support in FLOSS projects
 
