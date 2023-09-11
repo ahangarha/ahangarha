@@ -3,9 +3,7 @@
 #### Full-stack Web Developer | Software Engineer at [Shakacode](https://shakacode.com) | Software Freedom Advocate
 
 ### What I'm doing now
-- 🔗 Make the combination of Rails and React easier and smoother
-- 📖 Reading "Refactoring" and "Clean Ruby" books
-- 🌱 Improve my Data Structure and Algorithm skills
+- 💻 Maintaining several Ruby gems at Shakacode, including [Shakapaker](https://github.com/shakacode/shakapacker), [react-rails](https://github.com/reactjs/react-rails), [react_on_rails](https://github.com/shakacode/react_on_rails),...
 - ↔️ Improving bidirectional text support in FLOSS projects
 
 ### Tech stack
@@ -40,8 +38,10 @@ I have actively contributed to multiple FLOSS projects to improve their support 
 
 #### Personal projects related to bidi support:
 
+- [logseq-bidi](https://github.com/dobidi/logseq-bidi): A Logseq plugin for adding bidirectional text support, making knowledge management in both LTR and RTL languages possible.
 - [add-bidi-support](https://github.com/ahangarha/add-bidi-support): a Firefox addon to demonstrate bidi support on web pages.
 - [markdown-it-bidi](https://github.com/dobidi/markdown-it-bidi): a plugin for markdown-it project to add bidi support to md-to-html parsers.
+- [bidify (Ruby edition)](https://github.com/dobidi/bidify-rb): a Ruby gem to add bidirectional text support to a given HTML content.
 
 ### 📫 Reach out to me
 
