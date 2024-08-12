@@ -1,10 +1,6 @@
 # I am Mostafa Ahangarha
 
-#### Full-stack Web Developer | Software Engineer at [Shakacode](https://shakacode.com) | Software Freedom Advocate
-
-### What I'm doing now
-- 💻 Maintaining several Ruby gems at Shakacode, including [Shakapaker](https://github.com/shakacode/shakapacker), [react-rails](https://github.com/reactjs/react-rails), [react_on_rails](https://github.com/shakacode/react_on_rails),...
-- ↔️ Improving bidirectional text support in FLOSS projects
+#### Freelance Full-stack Web Developer | Software Freedom Advocate
 
 ### Tech stack
 
